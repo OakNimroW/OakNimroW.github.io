@@ -7,6 +7,11 @@ tags: [Config]     # TAG names should always be lowercase
 
 # Install kitty
 
+Kitty can be installed from github `https://github.com/kovidgoyal/kitty` or with apt (*This way, it is not updated to the latest version*) . 
+
+
+
+
 ```bash
 $ sudo apt install -y kitty
 ```
