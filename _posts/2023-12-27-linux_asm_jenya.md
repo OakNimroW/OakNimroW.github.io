@@ -1,7 +1,7 @@
 ---
-title: BuffEMR
+title: Linux asm Jenya
 date: 2023-12-27 00:00:00 +/-TTTT 
-categories: [Writeup]
+categories: [Writeup, Crackmes]
 tags: [writeup, crackme.one]     # TAG names should always be lowercase
 ---
 
