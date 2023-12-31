@@ -19,9 +19,13 @@ The default syntax is *AT&T*.
 ## Hook-Stop
 
 `hook-stop` is used to execute a list of commands after an breack point.
+
 `info registers` shows the value of registers, `i r` is valid to.
+
 `x/32wx $esp` shows 32 words at the stack.
+
 `x/4i $eip` shows the following 4 assembly instructions.
+
 `end` ends the list of commands
 
 ```bash
